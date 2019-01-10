@@ -2,4 +2,3 @@ import pyautogui
 import cv2
 import numpy
 
-print("MAX_bang")
